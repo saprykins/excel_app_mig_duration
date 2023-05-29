@@ -1,3 +1,15 @@
+# improvements: 
+# not all dates were mentioned though mig duration was available
+# some durations were negative
+# manual manipulations still required: 
+# a/ i get duration for the last 7 days updates apps, 
+# b/ i delete duplicates, 
+# c/ i add id for lines, 
+# d/  calc app duration, 
+# e/ manual cleaning
+
+
+
 import csv
 from datetime import datetime
 
